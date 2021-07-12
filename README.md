@@ -1,4 +1,6 @@
 # oci-arch-atg-RAS-ATG
+Follow this steps:
+
 1 terraform init
 
 2 terraform plan
